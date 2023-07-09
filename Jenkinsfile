@@ -13,6 +13,4 @@ pipeline {
         }
     }
 }
-sandeeppochu
-/
-petclinic
+
