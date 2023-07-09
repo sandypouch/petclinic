@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: sandypouch/petclinic
-  tag: latest
+  tag: 16
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
